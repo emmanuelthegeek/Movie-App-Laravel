@@ -12,3 +12,8 @@ Only authenticated users can post comments.
 5. Run "php artisan key:generate"
 6. Start the server with "php artisan serve"
 7. Enjoy!!!
+
+TECHNOLOGIES USED
+Frontend -> tailwindCSS, Vue.js, bootstrap5, HTML, CSS.
+Backend -> Laravel, Livewire, RESTapi.
+Database -> MySQL.
